@@ -2,10 +2,6 @@ I'm a Junior Full Stack Developer passionate about building innovative and user-
 
 I have experience working with HTML, CSS, JavaScript, ReactJS, NodeJS, and SQL databases. I enjoy learning new technologies and continuously improving my skills to stay up-to-date with the latest trends and best practices.
 
-In my free time, I like to experiment with new coding techniques and contribute to open-source projects. I'm also an avid reader and enjoy exploring different genres of literature.
-
-I'm excited to collaborate with others and work on projects that challenge me to think outside the box. Feel free to reach out if you're interested in working together or just want to connect!
-
 <!--
 **vasanth2320/vasanth2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
