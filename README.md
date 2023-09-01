@@ -62,6 +62,13 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
+<h3 align="left">Design:</h3>
+<div align="left">
+<!--   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+</div><br/>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=vasanth2320&show_icons=true&theme=dark&locale=en" alt="vasanth2320" /></td>
