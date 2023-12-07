@@ -79,13 +79,13 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vasanth2320&show_icons=true&theme=dark&locale=en" alt="vasanth2320" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanth2320&show_icons=true&theme=dark&locale=en&layout=compact" alt="vasanth2320" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=svk2320&show_icons=true&theme=dark&locale=en" alt="vasanth2320" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=svk2320&show_icons=true&theme=dark&locale=en&layout=compact" alt="vasanth2320" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanth2320&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svk2320&theme=dark" alt="jigar-sable" /></p>
   </div>
 
 
