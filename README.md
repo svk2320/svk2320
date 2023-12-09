@@ -88,6 +88,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svk2320&theme=dark" alt="jigar-sable" /></p>
   </div>
 
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svk2320&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vasanth2320" /></td>
+
 
 <!--
 **vasanth2320/vasanth2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
